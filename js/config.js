@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Deneme";
+var l_serverName = "Lawloss'un Kedicikleri :)) ";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -21,11 +21,11 @@ var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
-"backgrounds/videos/MMV – STRLGHT - Clutch.webm"
+"backgrounds/videos/video.webm"
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/MMV – STRLGHT - Clutch.webm";
+var l_background = "backgrounds/videos/video.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -71,7 +71,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = false;
